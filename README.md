@@ -2,4 +2,4 @@
 ## test
 * test des balises markdown
 
-<i> italic test </i>
+<b> je prèfères en gras </b>
